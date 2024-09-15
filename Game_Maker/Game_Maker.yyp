@@ -34,6 +34,7 @@
   },
   "name":"Game_Maker",
   "resources":[
+<<<<<<< Updated upstream
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Jump","path":"sounds/Jump/Jump.yy",},},
     {"id":{"name":"Land_","path":"sounds/Land_/Land_.yy",},},
@@ -45,12 +46,27 @@
     {"id":{"name":"Robot_Walk_Doom","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},},
     {"id":{"name":"Robot_Walk_Grave","path":"sprites/Robot_Walk_Grave/Robot_Walk_Grave.yy",},},
     {"id":{"name":"Robot_Walk","path":"sprites/Robot_Walk/Robot_Walk.yy",},},
+=======
+    {"id":{"name":"obj_CollisionWall","path":"objects/obj_CollisionWall/obj_CollisionWall.yy",},},
+    {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
+    {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
+    {"id":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
+    {"id":{"name":"spr_CollisionWall","path":"sprites/spr_CollisionWall/spr_CollisionWall.yy",},},
+    {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"sTitle","path":"sprites/sTitle/sTitle.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+<<<<<<< Updated upstream
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+=======
+    {"roomId":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
+    {"roomId":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
+    {"roomId":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
+>>>>>>> Stashed changes
   ],
   "templateType":"game",
   "TextureGroups":[
