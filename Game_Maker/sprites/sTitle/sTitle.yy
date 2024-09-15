@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Game_Maker",
-    "path":"Game_Maker.yyp",
+    "name":"Background",
+    "path":"folders/Sprites/Background.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
