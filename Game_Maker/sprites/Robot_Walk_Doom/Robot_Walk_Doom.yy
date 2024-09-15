@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":67,
   "bbox_left":8,
-  "bbox_right":631,
+  "bbox_right":71,
   "bbox_top":6,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"dc60b597-66d3-40b9-829e-392d7fbef8b0","name":"dc60b597-66d3-40b9-829e-392d7fbef8b0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0f828b94-6045-4113-86b8-268d763a3bc1","name":"0f828b94-6045-4113-86b8-268d763a3bc1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c9f8801b-2786-4652-a51e-f37fd28cd2f9","name":"c9f8801b-2786-4652-a51e-f37fd28cd2f9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"24b65823-e783-4c99-bcbc-b95577a976d5","name":"24b65823-e783-4c99-bcbc-b95577a976d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"01a57879-c9a3-4326-b6d1-745dc2bfbfd3","name":"01a57879-c9a3-4326-b6d1-745dc2bfbfd3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"88926282-6fc5-443c-8b5b-3dbf7b41de12","name":"88926282-6fc5-443c-8b5b-3dbf7b41de12","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0be8c386-ff9d-44c3-84fe-a9945da9f95c","name":"0be8c386-ff9d-44c3-84fe-a9945da9f95c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b54d0b3c-a98a-4959-b907-877d8305ba50","name":"b54d0b3c-a98a-4959-b907-877d8305ba50","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"603deb9b-2fcd-45ef-9aa5-02a6a4ed76b2","name":"603deb9b-2fcd-45ef-9aa5-02a6a4ed76b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":80,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1a5c4307-c6cc-4f6b-8db6-6acfdef5aa85","blendMode":0,"displayName":"default","isLocked":false,"name":"1a5c4307-c6cc-4f6b-8db6-6acfdef5aa85","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"316dff2c-4d8a-4646-8e3e-729a2d40ba04","blendMode":0,"displayName":"default","isLocked":false,"name":"316dff2c-4d8a-4646-8e3e-729a2d40ba04","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Robot_Walk_Doom",
   "nineSlice":null,
@@ -49,7 +56,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":8.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +66,7 @@
     },
     "name":"Robot_Walk_Doom",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":10.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +76,29 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dc60b597-66d3-40b9-829e-392d7fbef8b0","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ef86ebc4-1120-48e1-bb53-ff7124e20de7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0f828b94-6045-4113-86b8-268d763a3bc1","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e7da21fe-a136-4eb5-9059-0c2970e650b4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9f8801b-2786-4652-a51e-f37fd28cd2f9","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6a22f45d-34fd-41b3-9bfb-263be4b72fc7","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"24b65823-e783-4c99-bcbc-b95577a976d5","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d664e15c-63b7-40f6-a494-93faf75d2620","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"01a57879-c9a3-4326-b6d1-745dc2bfbfd3","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8da9ef52-62a4-4115-8233-58b87d542567","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"88926282-6fc5-443c-8b5b-3dbf7b41de12","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"46e4149e-6db1-4529-9c53-706db1d02548","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0be8c386-ff9d-44c3-84fe-a9945da9f95c","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"556ef20d-79d8-4f06-afb9-e348351459c0","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b54d0b3c-a98a-4959-b907-877d8305ba50","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"141f6357-9b83-4ba0-b862-77d84dc3807f","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"603deb9b-2fcd-45ef-9aa5-02a6a4ed76b2","path":"sprites/Robot_Walk_Doom/Robot_Walk_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"396ed4c9-d07a-4285-9cdb-3e71827e57a9","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +114,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":640,
+  "width":80,
 }

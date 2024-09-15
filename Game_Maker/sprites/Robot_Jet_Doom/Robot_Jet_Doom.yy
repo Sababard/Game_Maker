@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":67,
   "bbox_left":8,
-  "bbox_right":151,
+  "bbox_right":71,
   "bbox_top":8,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,15 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2638d9b1-e9ef-4b94-9d7a-afe8fc07a54b","name":"2638d9b1-e9ef-4b94-9d7a-afe8fc07a54b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b9d8f254-1830-408d-8d1b-2fcf5966523d","name":"b9d8f254-1830-408d-8d1b-2fcf5966523d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"94de1786-ef14-40fc-aec0-21d661c10f82","name":"94de1786-ef14-40fc-aec0-21d661c10f82","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":80,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"98c3a2e6-2098-4706-8526-1f60040b16c0","blendMode":0,"displayName":"default","isLocked":false,"name":"98c3a2e6-2098-4706-8526-1f60040b16c0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"be36424f-f1b8-4eb0-a78d-5c9e8a959cd7","blendMode":0,"displayName":"default","isLocked":false,"name":"be36424f-f1b8-4eb0-a78d-5c9e8a959cd7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Robot_Jet_Doom",
   "nineSlice":null,
@@ -49,7 +50,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":2.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +60,7 @@
     },
     "name":"Robot_Jet_Doom",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":15.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +70,11 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2638d9b1-e9ef-4b94-9d7a-afe8fc07a54b","path":"sprites/Robot_Jet_Doom/Robot_Jet_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2cfb2081-3c4d-4ebc-9f6d-b895d023b526","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b9d8f254-1830-408d-8d1b-2fcf5966523d","path":"sprites/Robot_Jet_Doom/Robot_Jet_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0300be81-7be8-4c51-bb13-beedf0baf479","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"94de1786-ef14-40fc-aec0-21d661c10f82","path":"sprites/Robot_Jet_Doom/Robot_Jet_Doom.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a08aee3b-006e-4ed2-bb00-8bf7ddba53bb","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":160,
+  "width":80,
 }
