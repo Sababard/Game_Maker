@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Robot_Jump",
+  "%Name":"Robot",
   "bboxMode":0,
   "bbox_bottom":71,
   "bbox_left":18,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b8975eb6-70cf-44ab-95dc-c8b4faf8c007","name":"b8975eb6-70cf-44ab-95dc-c8b4faf8c007","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d68fb94f-3cf5-451b-9ab9-21aaa772b8f1","name":"d68fb94f-3cf5-451b-9ab9-21aaa772b8f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":80,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"6b81be4e-1d8a-49f2-96f6-5d0d6bd5aa94","blendMode":0,"displayName":"default","isLocked":false,"name":"6b81be4e-1d8a-49f2-96f6-5d0d6bd5aa94","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"52201ad0-eb82-402d-b626-b211b3aeaae5","blendMode":0,"displayName":"default","isLocked":false,"name":"52201ad0-eb82-402d-b626-b211b3aeaae5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Robot_Jump",
+  "name":"Robot",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Robot_Jump",
+    "%Name":"Robot",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Robot_Jump",
+    "name":"Robot",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b8975eb6-70cf-44ab-95dc-c8b4faf8c007","path":"sprites/Robot_Jump/Robot_Jump.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9d14116b-8c89-45b8-9c0c-149ec0576138","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d68fb94f-3cf5-451b-9ab9-21aaa772b8f1","path":"sprites/Robot/Robot.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a9763a84-2cf3-474e-83d6-dcf765c24d49","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
