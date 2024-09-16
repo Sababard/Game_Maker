@@ -15,11 +15,72 @@ if (place_meeting(x, y+2, obj_CollisionWall))
 		audio_sound_pitch(SNjump,choose(0.8,1.0,1.2));
 		audio_play_sound(SNjump,4,false);
 	}
+
+}
+if(place_meeting(x, y, obj_CollisionWall))
+{
+	for (var i = 0; i < 1000; i++)
+	{
+		//Right
+		if (!place_meeting(x+i, y, obj_CollisionWall))
+		{
+			x += i;
+			break
+		}
+		
+		//Left
+		if (!place_meeting(x-i, y, obj_CollisionWall))
+		{
+			x -= i;
+			break
+		}
+		//Up
+			if (!place_meeting(x, y-i, obj_CollisionWall))
+		{
+			y -= i;
+			break
+		}
+		//Down
+			if (!place_meeting(x, y+i, obj_CollisionWall))
+		{
+			y += i;
+			break
+		}
+		//Top Right
+			if (!place_meeting(x+i, y-i, obj_CollisionWall))
+		{
+			x+=i;
+			y -=i;
+			break
+		}
+		
+		//Top Left
+			if (!place_meeting(x-i, y-i, obj_CollisionWall))
+		{
+			x-=i;
+			y -=i;
+			break
+		}
+		//Bottom Right
+			if (!place_meeting(x+i, y+i, obj_CollisionWall))
+		{
+			x+=i;
+			y +=i;
+			break
+		}
+		//Bottom Left
+				if (!place_meeting(x-i, y+i, obj_CollisionWall))
+		{
+			x-=i;
+			y +=i;
+			break
+		}
+	}
 	
 }
 // gravity
 else if (move_y < 10) 
-	move_y += 1;
+	move_y += .5;
 
 	
 move_and_collide(move_x, move_y, obj_CollisionWall);
