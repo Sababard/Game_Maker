@@ -28,7 +28,7 @@ if (move_x != 0) image_xscale = sign(move_x);
 
 
 // animation
-if (!place_meeting(x,y+1,obj_CollisionWall))
+if (!place_meeting(x,y+2,obj_CollisionWall))
 {
 	// gets airbrone sprite
 	sprite_index = Robot_Jump;
