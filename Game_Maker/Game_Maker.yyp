@@ -39,6 +39,7 @@
   "name":"Game_Maker",
   "resources":[
     {"id":{"name":"obj_CollisionWall","path":"objects/obj_CollisionWall/obj_CollisionWall.yy",},},
+    {"id":{"name":"obj_dedzone","path":"objects/obj_dedzone/obj_dedzone.yy",},},
     {"id":{"name":"obj_exitbutton","path":"objects/obj_exitbutton/obj_exitbutton.yy",},},
     {"id":{"name":"obj_gamecontoller","path":"objects/obj_gamecontoller/obj_gamecontoller.yy",},},
     {"id":{"name":"obj_homebutton","path":"objects/obj_homebutton/obj_homebutton.yy",},},
@@ -65,6 +66,7 @@
     {"id":{"name":"spr_buttonhighlighted","path":"sprites/spr_buttonhighlighted/spr_buttonhighlighted.yy",},},
     {"id":{"name":"spr_buttonselected","path":"sprites/spr_buttonselected/spr_buttonselected.yy",},},
     {"id":{"name":"spr_CollisionWall","path":"sprites/spr_CollisionWall/spr_CollisionWall.yy",},},
+    {"id":{"name":"spr_dedzone","path":"sprites/spr_dedzone/spr_dedzone.yy",},},
     {"id":{"name":"spr_exitbutton","path":"sprites/spr_exitbutton/spr_exitbutton.yy",},},
     {"id":{"name":"spr_home","path":"sprites/spr_home/spr_home.yy",},},
     {"id":{"name":"spr_playbutton","path":"sprites/spr_playbutton/spr_playbutton.yy",},},

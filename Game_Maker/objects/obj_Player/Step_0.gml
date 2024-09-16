@@ -17,6 +17,8 @@ if (place_meeting(x, y+2, obj_CollisionWall))
 	}
 
 }
+
+// collision to not get stuck in wall
 if(place_meeting(x, y, obj_CollisionWall))
 {
 	for (var i = 0; i < 1000; i++)
@@ -27,7 +29,6 @@ if(place_meeting(x, y, obj_CollisionWall))
 			x += i;
 			break
 		}
-		
 		//Left
 		if (!place_meeting(x-i, y, obj_CollisionWall))
 		{
@@ -53,7 +54,6 @@ if(place_meeting(x, y, obj_CollisionWall))
 			y -=i;
 			break
 		}
-		
 		//Top Left
 			if (!place_meeting(x-i, y-i, obj_CollisionWall))
 		{
