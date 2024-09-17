@@ -59,6 +59,7 @@
     {"id":{"name":"obj_Platform9","path":"objects/obj_Platform9/obj_Platform9.yy",},},
     {"id":{"name":"obj_playbutton","path":"objects/obj_playbutton/obj_playbutton.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"obj_title1","path":"objects/obj_title1/obj_title1.yy",},},
     {"id":{"name":"obj_Tutorialbutton","path":"objects/obj_Tutorialbutton/obj_Tutorialbutton.yy",},},
     {"id":{"name":"oDust","path":"objects/oDust/oDust.yy",},},
     {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
