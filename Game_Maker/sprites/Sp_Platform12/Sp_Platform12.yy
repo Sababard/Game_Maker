@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"Sp_Platform12",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":40,
   "bbox_left":17,
   "bbox_right":65,
-  "bbox_top":29,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,

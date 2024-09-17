@@ -39,6 +39,7 @@
   },
   "name":"Game_Maker",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_CollisionWall","path":"objects/obj_CollisionWall/obj_CollisionWall.yy",},},
     {"id":{"name":"obj_dedzone","path":"objects/obj_dedzone/obj_dedzone.yy",},},
     {"id":{"name":"obj_exitbutton","path":"objects/obj_exitbutton/obj_exitbutton.yy",},},
@@ -64,6 +65,7 @@
     {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
     {"id":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
     {"id":{"name":"rm_TutorialScreen","path":"rooms/rm_TutorialScreen/rm_TutorialScreen.yy",},},
+    {"id":{"name":"scr_TitleCreation","path":"scripts/scr_TitleCreation/scr_TitleCreation.yy",},},
     {"id":{"name":"SNjump","path":"sounds/SNjump/SNjump.yy",},},
     {"id":{"name":"SNland","path":"sounds/SNland/SNland.yy",},},
     {"id":{"name":"SNWOW_Youre_the_best","path":"sounds/SNWOW_Youre_the_best/SNWOW_Youre_the_best.yy",},},
