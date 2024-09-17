@@ -62,6 +62,7 @@
     {"id":{"name":"obj_title1","path":"objects/obj_title1/obj_title1.yy",},},
     {"id":{"name":"obj_Tutorialbutton","path":"objects/obj_Tutorialbutton/obj_Tutorialbutton.yy",},},
     {"id":{"name":"oDust","path":"objects/oDust/oDust.yy",},},
+    {"id":{"name":"partSYS_boom","path":"particles/partSYS_boom/partSYS_boom.yy",},},
     {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
     {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
     {"id":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
