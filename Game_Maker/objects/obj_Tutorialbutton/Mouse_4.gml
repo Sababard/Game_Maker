@@ -1,0 +1,1 @@
+sprite_index = selected_button_sprite
