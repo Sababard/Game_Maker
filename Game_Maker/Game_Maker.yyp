@@ -36,7 +36,6 @@
   "resources":[
     {"id":{"name":"obj_CollisionWall","path":"objects/obj_CollisionWall/obj_CollisionWall.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
-    {"id":{"name":"rm_EndScreen","path":"rooms/rm_EndScreen/rm_EndScreen.yy",},},
     {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
     {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
     {"id":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
@@ -49,7 +48,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
     {"roomId":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
-    {"roomId":{"name":"rm_EndScreen","path":"rooms/rm_EndScreen/rm_EndScreen.yy",},},
     {"roomId":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
   ],
   "templateType":"game",
