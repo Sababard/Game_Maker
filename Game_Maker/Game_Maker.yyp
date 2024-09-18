@@ -62,7 +62,6 @@
     {"id":{"name":"oDust","path":"objects/oDust/oDust.yy",},},
     {"id":{"name":"partSYS_boom","path":"particles/partSYS_boom/partSYS_boom.yy",},},
     {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
-    {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
     {"id":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
     {"id":{"name":"rm_TutorialScreen","path":"rooms/rm_TutorialScreen/rm_TutorialScreen.yy",},},
     {"id":{"name":"SNjump","path":"sounds/SNjump/SNjump.yy",},},
@@ -109,7 +108,6 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_TitleScreen","path":"rooms/rm_TitleScreen/rm_TitleScreen.yy",},},
-    {"roomId":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
     {"roomId":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
     {"roomId":{"name":"rm_TutorialScreen","path":"rooms/rm_TutorialScreen/rm_TutorialScreen.yy",},},
   ],
