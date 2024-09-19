@@ -19,6 +19,7 @@
   "height":72,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"41475185-4595-4955-baeb-d6bf822e45ed","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"41475185-4595-4955-baeb-d6bf822e45ed","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"74220619-948a-4b88-aeef-0c96a3ca7ee0","blendMode":0,"displayName":"default","isLocked":false,"name":"74220619-948a-4b88-aeef-0c96a3ca7ee0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sp_Platform10",

@@ -19,7 +19,7 @@
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7cac7cc6-15c2-4713-9537-14047bb4f4f7","blendMode":0,"displayName":"default","isLocked":false,"name":"7cac7cc6-15c2-4713-9537-14047bb4f4f7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"878b1fa7-f61a-4d61-b9c7-f8ac378baf8c","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"878b1fa7-f61a-4d61-b9c7-f8ac378baf8c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sp_Platform12",
   "nineSlice":null,
