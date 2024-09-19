@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemyDeath",
+  "%Name":"obj_enemyGrave",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemyDeath",
+  "name":"obj_enemyGrave",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Robot_Walk_Death",
-    "path":"sprites/Robot_Walk_Death/Robot_Walk_Death.yy",
+    "name":"Robot_Walk_Grave",
+    "path":"sprites/Robot_Walk_Grave/Robot_Walk_Grave.yy",
   },
   "spriteMaskId":null,
   "visible":true,
